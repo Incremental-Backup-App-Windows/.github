@@ -3,7 +3,7 @@
 Incremental Backup is a backup tool for Windows that saves only the files changed since your last run, letting you keep frequent, space-saving copies and restore any version when you need it.
 
 <div align="center">
-  <img src="https://hystax.com/wp-content/uploads/2024/11/incremental-differential-and-full-backup-their-key-differences.webp" alt="Incremental Backup Logo" width="25%"/>
+  <img src="https://www.codetwo.com/media/images/thumb_571_270/media/images/continuous-incremental-backup.png" alt="Incremental Backup Logo" width="25%"/>
 </div>
 
 <div align="center">
